@@ -1,0 +1,41 @@
+{
+	"name":"isotope/isotope_german",
+	"description":"German bundle of Isotope eCommerce, an eCommerce extension for Contao Open Source CMS",
+	"keywords":["contao", "isotope", "bundle", "metapackage"],
+	"type":"metapackage",
+	"homepage":"https://isotopeecommerce.org",
+	"license":"LGPL-3.0+",
+	"authors":[
+		{
+      "name":"terminal42 gmbh",
+      "homepage":"http://terminal42.ch"
+    },
+    {
+      "name":"Isotope Workgroup",
+      "homepage":"https://isotopeecommerce.org"
+    },
+		{
+			"name":"Christian de la Haye",
+			"email":"service@delahaye.de",
+			"homepage":"http://www.delahaye.de/",
+			"role":"Developer"
+		},
+		{
+			"name":"Kirsten Roschanski",
+			"email":"kirsten@kirsten-roschanski.de",
+			"homepage":"https://kirsten-roschanski.de/",
+			"role":"Developer"
+		}
+	],
+	"support":{
+		"email":"",
+		"issues":"https://github.com/katgirl/isotope_german/issues",
+		"wiki":"https://isotopeecommerce.org/de/handbuch.html",
+		"irc":"irc://irc.freenode.org/contao.dev",
+		"source":"https://github.com/katgirl/isotope_german"
+	},
+	"require":{
+		"isotope/isotope-core":"*",
+		"isotope/isotope_documents":"*"
+	}
+}
